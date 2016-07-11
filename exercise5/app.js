@@ -1,7 +1,7 @@
 var mySound;
 
 function preload() {
-  mySound = loadSound('assets/doorbell.mp3');
+  mySound = loadSound('sound.mp3');
 }
 
 function setup() {
